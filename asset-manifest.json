@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/christmas/static/css/main.9e9ba373.css",
+    "main.js": "/christmas/static/js/main.098c1e04.js",
+    "index.html": "/christmas/index.html",
+    "main.9e9ba373.css.map": "/christmas/static/css/main.9e9ba373.css.map",
+    "main.098c1e04.js.map": "/christmas/static/js/main.098c1e04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9ba373.css",
+    "static/js/main.098c1e04.js"
+  ]
+}
